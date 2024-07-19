@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.brand-logo {
+  width: 500px;
+  height: 50px;
+}
+
+.navbar .nav-link, .navbar .btn-success {
+  margin-right: 10px;
+}
